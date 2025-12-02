@@ -1,0 +1,19 @@
+1. Software Yang harus diinstal :
+   a. Xampp versi 3.2.1 : https://shorturl.at/hb2pX (WAJIB PAKAI VERSI INI)
+      Berikut Cara Instal Xampp : https://youtu.be/fcgd1TUDkMk 
+      Note : Saat Menjalankan CMD Wajib Klik Kanan lalu Run Administrator (Jangan       Double Click)
+   b. Visual Studio Code : https://code.visualstudio.com/download (Download disini)
+   c. Google Chrome 
+   d. 7zip - Extrax Program pakai 7zip untuk meminimalisir file corrupt/tidak bisa           dibuka : https://shorturl.at/ETAzz (Untuk windows download disini)
+
+2. Berikut Cara Instal Program Web PHP Nya : https://youtu.be/97PF4S7gewk
+
+3. Berikut Cara Penjelasan Singkat Struktur Folder web nya & Cara Ganti Beberpa Menu Pada Web : https://shorturl.at/JJSDP
+
+4. Jika program sudah terbuka dan untuk masuk kehalaman admin/guru/pegawai/siswa/dll silahkan ubah pada url web nya misal nya: "http://localhost/amrullah-monitoring-siswa-pkl/index.php?p=home" diganti menjadi "http://localhost/2024_yusuf_enkripsi_deskripsi_rsa/admin"
+
+5. Jika hak akses lebih dari satu, misalnya ada admin, karyawan atau guru. jangan lupa setting koneksi.php nya juga pada masing masing folder ya
+
+
+
+
